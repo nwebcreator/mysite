@@ -116,6 +116,10 @@ a:active {
   border-radius: 20px;
 }
 
+.last a {
+  margin-left: 40px;
+}
+
 .last:last-child {
   padding-bottom: 15px;
 }
