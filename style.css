@@ -118,6 +118,7 @@ a:active {
 
 .last a {
   margin-left: 40px;
+  width: 100%;
 }
 
 .last:last-child {
