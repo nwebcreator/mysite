@@ -246,3 +246,8 @@ background: linear-gradient(-90deg, #7EE0C9 0%, #62B5C8 100%)
 .contact h2 {
   text-align: center;
 }
+
+.card img:hover {
+  transition: 0.9s;
+  transform: scale(1.1);
+}
