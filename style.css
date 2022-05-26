@@ -109,7 +109,7 @@ a:active {
   justify-content: space-between;
   flex-direction: column; */
   display: grid;
-  grid-template-columns: repeat(auto-fit, 340px);
+  grid-template-columns: repeat(auto-fill, 340px);
   column-gap: 15px;
   row-gap: 15px;
 
