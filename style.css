@@ -169,7 +169,7 @@ a:active {
 }
 
 .card__button_site:hover {
-  transition: 0.9s;
+  transition: 0.2s;
   transform: scale(1.1);
 }
 
@@ -181,7 +181,7 @@ a:active {
 }
 
 .card__button_code:hover {
-  transition: 0.5s;
+  transition: 0.2s;
   transform: scale(1.1);
 }
 
