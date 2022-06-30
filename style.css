@@ -14,6 +14,7 @@ body {
   font-family: 'Roboto', sans-serif;
 
   min-width: 340px;
+  margin-left: 20px;
 
   /* font: normal 16px 'Roboto', sans-serif; */
   /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
@@ -258,11 +259,11 @@ a:active {
 
 .bg-gradient-blue {
   /* background: linear-gradient(-90deg, #4262D6 0%, #457FD7 100%);*/
-   background: linear-gradient(-90deg, #5979E9 0%, #7276E1 100%);
+   background: linear-gradient(to right, #889ff3, #6064df);
 }
 
 .bg-gradient-violet {
-  background: linear-gradient(to right, #654ea3, #eaafc8);
+  background: linear-gradient(to right, #654ea3, #eaafc8);s
 }
 
 .bg-gradient-green {
@@ -295,6 +296,10 @@ background: linear-gradient(-90deg, #7EE0C9 0%, #52a5b8 100%)
 
 .bg-gradient-relvise {
   background: linear-gradient(to right, #e45d1f, #1e8fb8);
+}
+
+.bg-gradient-pg {
+  background: linear-gradient(to right, #e9d1e9, #c7b5e7, #9a71e7);
 }
 
 
