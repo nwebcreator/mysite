@@ -130,6 +130,7 @@ a:active {
   margin-bottom: 20px;
   border-radius: 10px;
   align-items: flex-start;
+  min-height: 460px;
 }
 
 .last a {
@@ -213,12 +214,20 @@ a:active {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    margin-left: 5%;
+    
   }
 
   .section-title {
     margin-left: 10%;
   }
+}
 
+@media (max-width: 340px) {
+  .container {
+    margin: 0 auto;
+    margin-right: 2%;
+  }
 }
 
 /*.grid-container {
