@@ -186,8 +186,7 @@ a:active {
 }
 
 .card__button_site:hover {
-  transition: 0.2s;
-  transform: scale(1.1);
+  background: rgb(236, 235, 235);
 }
 
 .card__button_site:active {
