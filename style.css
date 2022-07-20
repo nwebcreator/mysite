@@ -190,6 +190,12 @@ a:active {
   transform: scale(1.1);
 }
 
+.card__button_site:active {
+  color: #2b2b2b;
+  position: relative;
+  top: 1px;
+}
+
 .card__button_code {
   border-radius: 7px;
   background: #454545;
@@ -198,10 +204,14 @@ a:active {
 }
 
 .card__button_code:hover {
-  transition: 0.2s;
-  transform: scale(1.1);
+  background: rgb(80, 75, 75);
 }
 
+.card__button_code:active {
+  color: #fff;
+  position: relative;
+  top: 1px;
+}
 
 @media (max-width: 1200px) {
   .container {
